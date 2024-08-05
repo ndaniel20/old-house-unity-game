@@ -4,7 +4,7 @@ A Unity-based game project set in an old house environment. This project include
 
 ## Features
 
-- **3D Models:** Includes a 3D model of the house and its surroundings.
+- **3D Models:** Includes a 3D model of the house and its surroundings with Blender.
 - **Scripts:** Contains C# scripts to control game mechanics and interactions.
 - **Scenes:** Pre-built scenes to showcase different parts of the game environment.
 - **Prefabs:** Ready-to-use prefabs for quick scene assembly.
